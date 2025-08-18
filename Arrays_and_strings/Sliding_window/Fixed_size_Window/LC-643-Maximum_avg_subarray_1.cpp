@@ -5,13 +5,13 @@ class Solution {
 public:
     double findMaxAverage(vector<int>& nums, int k) {
     double maxx=0.0,curr=0.0;
-    for(int i=0;i<k;i++){
+    for(int i=0;i<k;i++){    //calculating avg of first window
         curr+=nums[i]*1.0/k;
     }
-    maxx=curr;             //assume current avg is our maximum avg
-    for(int i=k;i<nums.size();i++){
-        curr+=(nums[i]-nums[i-k])*1.0/k;
-        if(curr>maxx){    //update maximum avg if required
+    maxx=curr;    //assume current avg is our maximum avg
+    for(int i=k;i<nums.size();i++){     //sliding the window towards right
+        curr+=(nums[i]-nums[i-k])*1.0/k;    //this calculates avg of each window
+        if(curr>maxx){     //update maximum avg if required
             maxx=curr;
         }
         //(or) maxx=max(curr,maxx);
