@@ -26,8 +26,8 @@ n == nums.length
 */
 
 //code:git 
-#include<iostream>
-#include<vector>
+#include <iostream>
+#include <vector>
 using namespace std;
 class Solution {
 public:
