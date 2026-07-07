@@ -2,18 +2,22 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Build C++ (active file)",
+      "label": "Build Current C++ File",
       "type": "shell",
       "command": "g++",
       "args": [
-        "-std=c++17",
         "-g",
         "${file}",
         "-o",
-        "${fileDirname}/${fileBasenameNoExtension}.exe"
+        "${fileDirname}\\${fileBasenameNoExtension}.exe"
       ],
-      "group": { "kind": "build", "isDefault": true },
-      "problemMatcher": ["$gcc"]
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": [
+        "$gcc"
+      ]
     }
   ]
 }

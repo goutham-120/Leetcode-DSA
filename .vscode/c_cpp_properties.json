@@ -6,12 +6,12 @@
         "${workspaceFolder}/**",
         "${workspaceFolder}/.vscode/include"
       ],
-      "compilerPath": "cl.exe",
+      "compilerPath": "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/g++.exe",
       "cStandard": "c17",
       "cppStandard": "c++17",
-      "intelliSenseMode": "windows-msvc-x64",
+      "intelliSenseMode": "windows-gcc-x64",
       "compilerArgs": [
-        "/EHsc"
+        "-std=c++17"
       ]
     }
   ],
