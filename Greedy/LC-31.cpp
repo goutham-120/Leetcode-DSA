@@ -91,4 +91,4 @@ int main() {
     return 0;
 }
 
-//note: if a number is in decreasing order then no next permutation is possible that can be greater thanthe current number.
+//note: if a number is in decreasing order then no next permutation is possible that can be greater than the current number, so we reverse it completely to get the smallest possible number as requirred by the question which is also the first permutation. 
