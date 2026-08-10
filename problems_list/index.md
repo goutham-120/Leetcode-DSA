@@ -1,0 +1,38 @@
+﻿# LeetCode C++ Solutions Index
+
+- LC-1: Two Sum
+- LC-3: Longest Substring Without Repeating Characters
+- LC-11: Container With Most Water
+- LC-15: 3Sum
+- LC-18: 4Sum
+- LC-26: Remove Duplicates from Sorted Array
+- LC-27: Remove Element
+- LC-31: Next Permutation
+- LC-33: Search in Rotated Sorted Array
+- LC-42: Trapping Rain Water
+- LC-53: Maximum Subarray
+- LC-54: Spiral Matrix
+- LC-70: Climbing Stairs
+- LC-74: Search a 2D Matrix
+- LC-75: Sort Colors
+- LC-88: Merge Sorted Array
+- LC-121: Best Time to Buy and Sell Stock
+- LC-125: Valid Palindrome
+- LC-141: Linked List Cycle
+- LC-151: Reverse Words in a String
+- LC-167: Two Sum II - Input Array Is Sorted
+- LC-189: Rotate Array
+- LC-209: Minimum Size Subarray Sum
+- LC-238: Product of Array Except Self
+- LC-283: Move Zeroes
+- LC-344: Reverse String
+- LC-349: Intersection of Two Arrays
+- LC-410: Split Array Largest Sum
+- LC-443: String Compression
+- LC-540: Single Element in a Sorted Array
+- LC-567: Permutation in String
+- LC-643: Maximum Average Subarray I
+- LC-852: Peak Index in a Mountain Array
+- LC-1004: Max Consecutive Ones III
+- LC-1423: Maximum Points You Can Obtain from Cards
+- LC-1552: Magnetic Force Between Two Balls
