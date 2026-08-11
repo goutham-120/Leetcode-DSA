@@ -19,20 +19,27 @@
 - LC-121: Best Time to Buy and Sell Stock
 - LC-125: Valid Palindrome
 - LC-141: Linked List Cycle
+- LC-1413: Minimum Value to Get Positive Step by Step
+- LC-1480: Running Sum of 1d Array
 - LC-151: Reverse Words in a String
 - LC-167: Two Sum II - Input Array Is Sorted
 - LC-189: Rotate Array
 - LC-209: Minimum Size Subarray Sum
 - LC-238: Product of Array Except Self
 - LC-283: Move Zeroes
+- LC-303: Range Sum Query - Immutable
 - LC-344: Reverse String
 - LC-349: Intersection of Two Arrays
 - LC-410: Split Array Largest Sum
 - LC-443: String Compression
 - LC-540: Single Element in a Sorted Array
+- LC-560: Subarray Sum Equals K
 - LC-567: Permutation in String
 - LC-643: Maximum Average Subarray I
+- LC-724: Find Pivot Index
 - LC-852: Peak Index in a Mountain Array
+- LC-974: Subarray Sums Divisible by K
 - LC-1004: Max Consecutive Ones III
+- LC-1732: Find the Highest Altitude
 - LC-1423: Maximum Points You Can Obtain from Cards
 - LC-1552: Magnetic Force Between Two Balls
