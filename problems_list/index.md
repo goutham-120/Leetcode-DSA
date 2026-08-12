@@ -2,9 +2,12 @@
 
 - LC-1: Two Sum
 - LC-3: Longest Substring Without Repeating Characters
+- LC-5: Longest Palindromic Substring
 - LC-11: Container With Most Water
+- LC-14: Longest Common Prefix
 - LC-15: 3Sum
 - LC-18: 4Sum
+- LC-20: Valid Parentheses
 - LC-26: Remove Duplicates from Sorted Array
 - LC-27: Remove Element
 - LC-31: Next Permutation
@@ -24,12 +27,16 @@
 - LC-151: Reverse Words in a String
 - LC-167: Two Sum II - Input Array Is Sorted
 - LC-189: Rotate Array
+- LC-205: Isomorphic Strings
 - LC-209: Minimum Size Subarray Sum
 - LC-238: Product of Array Except Self
+- LC-242: Valid Anagram
 - LC-283: Move Zeroes
 - LC-303: Range Sum Query - Immutable
 - LC-344: Reverse String
 - LC-349: Intersection of Two Arrays
+- LC-383: Ransom Note
+- LC-387: First Unique Character in a String
 - LC-410: Split Array Largest Sum
 - LC-443: String Compression
 - LC-540: Single Element in a Sorted Array
