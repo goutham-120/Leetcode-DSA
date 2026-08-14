@@ -29,6 +29,7 @@
 - LC-189: Rotate Array
 - LC-205: Isomorphic Strings
 - LC-209: Minimum Size Subarray Sum
+- LC-217: Contains Duplicate
 - LC-238: Product of Array Except Self
 - LC-242: Valid Anagram
 - LC-283: Move Zeroes
@@ -37,6 +38,7 @@
 - LC-349: Intersection of Two Arrays
 - LC-383: Ransom Note
 - LC-387: First Unique Character in a String
+- LC-392: Is Subsequence
 - LC-410: Split Array Largest Sum
 - LC-443: String Compression
 - LC-540: Single Element in a Sorted Array
@@ -46,6 +48,7 @@
 - LC-724: Find Pivot Index
 - LC-852: Peak Index in a Mountain Array
 - LC-974: Subarray Sums Divisible by K
+- LC-977: Squares of a Sorted Array
 - LC-1004: Max Consecutive Ones III
 - LC-1732: Find the Highest Altitude
 - LC-1423: Maximum Points You Can Obtain from Cards
