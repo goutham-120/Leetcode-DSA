@@ -22,6 +22,7 @@
 - LC-121: Best Time to Buy and Sell Stock
 - LC-125: Valid Palindrome
 - LC-141: Linked List Cycle
+- LC-155: Min Stack
 - LC-1413: Minimum Value to Get Positive Step by Step
 - LC-1480: Running Sum of 1d Array
 - LC-151: Reverse Words in a String
@@ -41,12 +42,15 @@
 - LC-392: Is Subsequence
 - LC-410: Split Array Largest Sum
 - LC-443: String Compression
+- LC-496: Next Greater Element I
 - LC-540: Single Element in a Sorted Array
 - LC-560: Subarray Sum Equals K
 - LC-567: Permutation in String
 - LC-643: Maximum Average Subarray I
 - LC-724: Find Pivot Index
+- LC-739: Daily Temperatures
 - LC-852: Peak Index in a Mountain Array
+- LC-904: Fruit Into Baskets
 - LC-974: Subarray Sums Divisible by K
 - LC-977: Squares of a Sorted Array
 - LC-1004: Max Consecutive Ones III
