@@ -24,6 +24,10 @@
 // -100 <= matrix[i][j] <= 100
 
 //code:
+#include <iostream>
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {

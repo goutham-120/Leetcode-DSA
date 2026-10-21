@@ -1,10 +1,5 @@
 // 1. Two Sum
-// Solved
-// Easy
-// Topics
-// premium lock icon
-// Companies
-// Hint
+//
 // You are given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 // You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -39,6 +34,11 @@
 // Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
 
 //code:
+#include <iostream>
+#include <vector>
+#include <unordered_map>
+using namespace std;
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {

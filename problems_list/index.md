@@ -1,4 +1,4 @@
-﻿# LeetCode C++ Solutions Index
+# LeetCode C++ Solutions Index
 
 - LC-1: Two Sum
 - LC-3: Longest Substring Without Repeating Characters
@@ -13,6 +13,7 @@
 - LC-31: Next Permutation
 - LC-33: Search in Rotated Sorted Array
 - LC-42: Trapping Rain Water
+- LC-49: Group Anagrams
 - LC-53: Maximum Subarray
 - LC-54: Spiral Matrix
 - LC-70: Climbing Stairs
@@ -22,10 +23,8 @@
 - LC-121: Best Time to Buy and Sell Stock
 - LC-125: Valid Palindrome
 - LC-141: Linked List Cycle
-- LC-155: Min Stack
-- LC-1413: Minimum Value to Get Positive Step by Step
-- LC-1480: Running Sum of 1d Array
 - LC-151: Reverse Words in a String
+- LC-155: Min Stack
 - LC-167: Two Sum II - Input Array Is Sorted
 - LC-189: Rotate Array
 - LC-205: Isomorphic Strings
@@ -54,6 +53,8 @@
 - LC-974: Subarray Sums Divisible by K
 - LC-977: Squares of a Sorted Array
 - LC-1004: Max Consecutive Ones III
-- LC-1732: Find the Highest Altitude
+- LC-1413: Minimum Value to Get Positive Step by Step
 - LC-1423: Maximum Points You Can Obtain from Cards
+- LC-1480: Running Sum of 1d Array
 - LC-1552: Magnetic Force Between Two Balls
+- LC-1732: Find the Highest Altitude

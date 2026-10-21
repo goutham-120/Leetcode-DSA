@@ -1,0 +1,17 @@
+# Compiled executables and objects
+*.exe
+*.o
+*.obj
+*.out
+
+# Debugger / symbols
+*.pdb
+*.ilk
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Local / temporary build folders
+build/
+bin/
