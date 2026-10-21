@@ -27,6 +27,7 @@
 - LC-155: Min Stack
 - LC-167: Two Sum II - Input Array Is Sorted
 - LC-189: Rotate Array
+- LC-198: House Robber
 - LC-205: Isomorphic Strings
 - LC-209: Minimum Size Subarray Sum
 - LC-217: Contains Duplicate
@@ -48,6 +49,7 @@
 - LC-643: Maximum Average Subarray I
 - LC-724: Find Pivot Index
 - LC-739: Daily Temperatures
+- LC-746: Min Cost Climbing Stairs
 - LC-852: Peak Index in a Mountain Array
 - LC-904: Fruit Into Baskets
 - LC-974: Subarray Sums Divisible by K
